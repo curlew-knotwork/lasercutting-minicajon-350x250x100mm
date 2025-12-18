@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Creative Commons BY-NC-SA -->
+
 <!-- Attribution: https://github.com/curlew-knotwork -->
+
 <svg
-   height="476.60mm"
-   viewBox="0.0 0.0 623.40 476.60"
-   width="623.40mm"
+   height="777.19mm"
+   viewBox="0 0 969.94967 777.18999"
+   width="969.94971mm"
    version="1.1"
    id="svg429"
    sodipodi:docname="minicajon-plain-350mmx250mmx100mm-outer-final.svg"
@@ -20,8 +22,8 @@
      id="defs433">
     <rect
        x="1456.9879"
-       y="-567.13178"
-       width="97.62813"
+       y="-567.13177"
+       width="97.628128"
        height="28.422285"
        id="rect1000" />
   </defs>
@@ -38,8 +40,8 @@
      showgrid="false"
      showguides="false"
      inkscape:zoom="0.31953457"
-     inkscape:cx="1062.4828"
-     inkscape:cy="1301.8936"
+     inkscape:cx="846.54377"
+     inkscape:cy="2268.9251"
      inkscape:window-width="1452"
      inkscape:window-height="991"
      inkscape:window-x="26"
@@ -88,18 +90,19 @@ SettingsUrl short: https://boxes.hackerspace-bamberg.de/ABox?x=350.0&amp;y=250.0
   </metadata>
   <g
      id="p-2"
-     style="fill:none;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke;-inkscape-stroke:hairline;stroke-width:0.26458333;stroke-dasharray:none">
+     style="vector-effect:non-scaling-stroke;fill:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;-inkscape-stroke:hairline"
+     transform="translate(178.28869,255.57787)">
     <path
-       d="M 16.100 254.200 H 35.000 C 35.100 254.200 35.000 254.100 35.000 254.200 V 260.100 C 35.000 260.155 35.045 260.200 35.100 260.200 H 47.100 C 47.155 260.200 47.200 260.155 47.200 260.100 V 254.200 C 47.200 254.100 47.100 254.200 47.200 254.200 H 59.000 C 59.100 254.200 59.000 254.100 59.000 254.200 V 260.100 C 59.000 260.155 59.045 260.200 59.100 260.200 H 71.100 C 71.155 260.200 71.200 260.155 71.200 260.100 V 254.200 C 71.200 254.100 71.100 254.200 71.200 254.200 H 83.000 C 83.100 254.200 83.000 254.100 83.000 254.200 V 260.100 C 83.000 260.155 83.045 260.200 83.100 260.200 H 95.100 C 95.155 260.200 95.200 260.155 95.200 260.100 V 254.200 C 95.200 254.100 95.100 254.200 95.200 254.200 H 107.000 C 107.100 254.200 107.000 254.100 107.000 254.200 V 260.100 C 107.000 260.155 107.045 260.200 107.100 260.200 H 119.100 C 119.155 260.200 119.200 260.155 119.200 260.100 V 254.200 C 119.200 254.100 119.100 254.200 119.200 254.200 H 131.000 C 131.100 254.200 131.000 254.100 131.000 254.200 V 260.100 C 131.000 260.155 131.045 260.200 131.100 260.200 H 143.100 C 143.155 260.200 143.200 260.155 143.200 260.100 V 254.200 C 143.200 254.100 143.100 254.200 143.200 254.200 H 155.000 C 155.100 254.200 155.000 254.100 155.000 254.200 V 260.100 C 155.000 260.155 155.045 260.200 155.100 260.200 H 167.100 C 167.155 260.200 167.200 260.155 167.200 260.100 V 254.200 C 167.200 254.100 167.100 254.200 167.200 254.200 H 179.000 C 179.100 254.200 179.000 254.100 179.000 254.200 V 260.100 C 179.000 260.155 179.045 260.200 179.100 260.200 H 191.100 C 191.155 260.200 191.200 260.155 191.200 260.100 V 254.200 C 191.200 254.100 191.100 254.200 191.200 254.200 H 203.000 C 203.100 254.200 203.000 254.100 203.000 254.200 V 260.100 C 203.000 260.155 203.045 260.200 203.100 260.200 H 215.100 C 215.155 260.200 215.200 260.155 215.200 260.100 V 254.200 C 215.200 254.100 215.100 254.200 215.200 254.200 H 227.000 C 227.100 254.200 227.000 254.100 227.000 254.200 V 260.100 C 227.000 260.155 227.045 260.200 227.100 260.200 H 239.100 C 239.155 260.200 239.200 260.155 239.200 260.100 V 254.200 C 239.200 254.100 239.100 254.200 239.200 254.200 H 251.000 C 251.100 254.200 251.000 254.100 251.000 254.200 V 260.100 C 251.000 260.155 251.045 260.200 251.100 260.200 H 263.100 C 263.155 260.200 263.200 260.155 263.200 260.100 V 254.200 C 263.200 254.100 263.100 254.200 263.200 254.200 H 275.000 C 275.100 254.200 275.000 254.100 275.000 254.200 V 260.100 C 275.000 260.155 275.045 260.200 275.100 260.200 H 287.100 C 287.155 260.200 287.200 260.155 287.200 260.100 V 254.200 C 287.200 254.100 287.100 254.200 287.200 254.200 H 299.000 C 299.100 254.200 299.000 254.100 299.000 254.200 V 260.100 C 299.000 260.155 299.045 260.200 299.100 260.200 H 311.100 C 311.155 260.200 311.200 260.155 311.200 260.100 V 254.200 C 311.200 254.100 311.100 254.200 311.200 254.200 H 323.000 C 323.100 254.200 323.000 254.100 323.000 254.200 V 260.100 C 323.000 260.155 323.045 260.200 323.100 260.200 H 335.100 C 335.155 260.200 335.200 260.155 335.200 260.100 V 254.200 C 335.200 254.100 335.100 254.200 335.200 254.200 H 354.100 C 354.155 254.200 354.200 254.155 354.200 254.100 V 237.200 C 354.200 237.100 354.100 237.200 354.200 237.200 H 360.100 C 360.155 237.200 360.200 237.155 360.200 237.100 V 225.100 C 360.200 225.045 360.155 225.000 360.100 225.000 H 354.200 C 354.100 225.000 354.200 225.100 354.200 225.000 V 213.200 C 354.200 213.100 354.100 213.200 354.200 213.200 H 360.100 C 360.155 213.200 360.200 213.155 360.200 213.100 V 201.100 C 360.200 201.045 360.155 201.000 360.100 201.000 H 354.200 C 354.100 201.000 354.200 201.100 354.200 201.000 V 189.200 C 354.200 189.100 354.100 189.200 354.200 189.200 H 360.100 C 360.155 189.200 360.200 189.155 360.200 189.100 V 177.100 C 360.200 177.045 360.155 177.000 360.100 177.000 H 354.200 C 354.100 177.000 354.200 177.100 354.200 177.000 V 165.200 C 354.200 165.100 354.100 165.200 354.200 165.200 H 360.100 C 360.155 165.200 360.200 165.155 360.200 165.100 V 153.100 C 360.200 153.045 360.155 153.000 360.100 153.000 H 354.200 C 354.100 153.000 354.200 153.100 354.200 153.000 V 141.200 C 354.200 141.100 354.100 141.200 354.200 141.200 H 360.100 C 360.155 141.200 360.200 141.155 360.200 141.100 V 129.100 C 360.200 129.045 360.155 129.000 360.100 129.000 H 354.200 C 354.100 129.000 354.200 129.100 354.200 129.000 V 117.200 C 354.200 117.100 354.100 117.200 354.200 117.200 H 360.100 C 360.155 117.200 360.200 117.155 360.200 117.100 V 105.100 C 360.200 105.045 360.155 105.000 360.100 105.000 H 354.200 C 354.100 105.000 354.200 105.100 354.200 105.000 V 93.200 C 354.200 93.100 354.100 93.200 354.200 93.200 H 360.100 C 360.155 93.200 360.200 93.155 360.200 93.100 V 81.100 C 360.200 81.045 360.155 81.000 360.100 81.000 H 354.200 C 354.100 81.000 354.200 81.100 354.200 81.000 V 69.200 C 354.200 69.100 354.100 69.200 354.200 69.200 H 360.100 C 360.155 69.200 360.200 69.155 360.200 69.100 V 57.100 C 360.200 57.045 360.155 57.000 360.100 57.000 H 354.200 C 354.100 57.000 354.200 57.100 354.200 57.000 V 45.200 C 354.200 45.100 354.100 45.200 354.200 45.200 H 360.100 C 360.155 45.200 360.200 45.155 360.200 45.100 V 33.100 C 360.200 33.045 360.155 33.000 360.100 33.000 H 354.200 C 354.100 33.000 354.200 33.100 354.200 33.000 V 16.100 C 354.200 16.045 354.155 16.000 354.100 16.000 H 335.200 C 335.100 16.000 335.200 16.100 335.200 16.000 V 10.100 C 335.200 10.045 335.155 10.000 335.100 10.000 H 323.100 C 323.045 10.000 323.000 10.045 323.000 10.100 V 16.000 C 323.000 16.100 323.100 16.000 323.000 16.000 H 311.200 C 311.100 16.000 311.200 16.100 311.200 16.000 V 10.100 C 311.200 10.045 311.155 10.000 311.100 10.000 H 299.100 C 299.045 10.000 299.000 10.045 299.000 10.100 V 16.000 C 299.000 16.100 299.100 16.000 299.000 16.000 H 287.200 C 287.100 16.000 287.200 16.100 287.200 16.000 V 10.100 C 287.200 10.045 287.155 10.000 287.100 10.000 H 275.100 C 275.045 10.000 275.000 10.045 275.000 10.100 V 16.000 C 275.000 16.100 275.100 16.000 275.000 16.000 H 263.200 C 263.100 16.000 263.200 16.100 263.200 16.000 V 10.100 C 263.200 10.045 263.155 10.000 263.100 10.000 H 251.100 C 251.045 10.000 251.000 10.045 251.000 10.100 V 16.000 C 251.000 16.100 251.100 16.000 251.000 16.000 H 239.200 C 239.100 16.000 239.200 16.100 239.200 16.000 V 10.100 C 239.200 10.045 239.155 10.000 239.100 10.000 H 227.100 C 227.045 10.000 227.000 10.045 227.000 10.100 V 16.000 C 227.000 16.100 227.100 16.000 227.000 16.000 H 215.200 C 215.100 16.000 215.200 16.100 215.200 16.000 V 10.100 C 215.200 10.045 215.155 10.000 215.100 10.000 H 203.100 C 203.045 10.000 203.000 10.045 203.000 10.100 V 16.000 C 203.000 16.100 203.100 16.000 203.000 16.000 H 191.200 C 191.100 16.000 191.200 16.100 191.200 16.000 V 10.100 C 191.200 10.045 191.155 10.000 191.100 10.000 H 179.100 C 179.045 10.000 179.000 10.045 179.000 10.100 V 16.000 C 179.000 16.100 179.100 16.000 179.000 16.000 H 167.200 C 167.100 16.000 167.200 16.100 167.200 16.000 V 10.100 C 167.200 10.045 167.155 10.000 167.100 10.000 H 155.100 C 155.045 10.000 155.000 10.045 155.000 10.100 V 16.000 C 155.000 16.100 155.100 16.000 155.000 16.000 H 143.200 C 143.100 16.000 143.200 16.100 143.200 16.000 V 10.100 C 143.200 10.045 143.155 10.000 143.100 10.000 H 131.100 C 131.045 10.000 131.000 10.045 131.000 10.100 V 16.000 C 131.000 16.100 131.100 16.000 131.000 16.000 H 119.200 C 119.100 16.000 119.200 16.100 119.200 16.000 V 10.100 C 119.200 10.045 119.155 10.000 119.100 10.000 H 107.100 C 107.045 10.000 107.000 10.045 107.000 10.100 V 16.000 C 107.000 16.100 107.100 16.000 107.000 16.000 H 95.200 C 95.100 16.000 95.200 16.100 95.200 16.000 V 10.100 C 95.200 10.045 95.155 10.000 95.100 10.000 H 83.100 C 83.045 10.000 83.000 10.045 83.000 10.100 V 16.000 C 83.000 16.100 83.100 16.000 83.000 16.000 H 71.200 C 71.100 16.000 71.200 16.100 71.200 16.000 V 10.100 C 71.200 10.045 71.155 10.000 71.100 10.000 H 59.100 C 59.045 10.000 59.000 10.045 59.000 10.100 V 16.000 C 59.000 16.100 59.100 16.000 59.000 16.000 H 47.200 C 47.100 16.000 47.200 16.100 47.200 16.000 V 10.100 C 47.200 10.045 47.155 10.000 47.100 10.000 H 35.100 C 35.045 10.000 35.000 10.045 35.000 10.100 V 16.000 C 35.000 16.100 35.100 16.000 35.000 16.000 H 16.100 C 16.045 16.000 16.000 16.045 16.000 16.100 V 33.000 C 16.000 33.100 16.100 33.000 16.000 33.000 H 10.100 C 10.045 33.000 10.000 33.045 10.000 33.100 V 45.100 C 10.000 45.155 10.045 45.200 10.100 45.200 H 16.000 C 16.100 45.200 16.000 45.100 16.000 45.200 V 57.000 C 16.000 57.100 16.100 57.000 16.000 57.000 H 10.100 C 10.045 57.000 10.000 57.045 10.000 57.100 V 69.100 C 10.000 69.155 10.045 69.200 10.100 69.200 H 16.000 C 16.100 69.200 16.000 69.100 16.000 69.200 V 81.000 C 16.000 81.100 16.100 81.000 16.000 81.000 H 10.100 C 10.045 81.000 10.000 81.045 10.000 81.100 V 93.100 C 10.000 93.155 10.045 93.200 10.100 93.200 H 16.000 C 16.100 93.200 16.000 93.100 16.000 93.200 V 105.000 C 16.000 105.100 16.100 105.000 16.000 105.000 H 10.100 C 10.045 105.000 10.000 105.045 10.000 105.100 V 117.100 C 10.000 117.155 10.045 117.200 10.100 117.200 H 16.000 C 16.100 117.200 16.000 117.100 16.000 117.200 V 129.000 C 16.000 129.100 16.100 129.000 16.000 129.000 H 10.100 C 10.045 129.000 10.000 129.045 10.000 129.100 V 141.100 C 10.000 141.155 10.045 141.200 10.100 141.200 H 16.000 C 16.100 141.200 16.000 141.100 16.000 141.200 V 153.000 C 16.000 153.100 16.100 153.000 16.000 153.000 H 10.100 C 10.045 153.000 10.000 153.045 10.000 153.100 V 165.100 C 10.000 165.155 10.045 165.200 10.100 165.200 H 16.000 C 16.100 165.200 16.000 165.100 16.000 165.200 V 177.000 C 16.000 177.100 16.100 177.000 16.000 177.000 H 10.100 C 10.045 177.000 10.000 177.045 10.000 177.100 V 189.100 C 10.000 189.155 10.045 189.200 10.100 189.200 H 16.000 C 16.100 189.200 16.000 189.100 16.000 189.200 V 201.000 C 16.000 201.100 16.100 201.000 16.000 201.000 H 10.100 C 10.045 201.000 10.000 201.045 10.000 201.100 V 213.100 C 10.000 213.155 10.045 213.200 10.100 213.200 H 16.000 C 16.100 213.200 16.000 213.100 16.000 213.200 V 225.000 C 16.000 225.100 16.100 225.000 16.000 225.000 H 10.100 C 10.045 225.000 10.000 225.045 10.000 225.100 V 237.100 C 10.000 237.155 10.045 237.200 10.100 237.200 H 16.000 C 16.100 237.200 16.000 237.100 16.000 237.200 V 254.100 C 16.000 254.155 16.045 254.200 16.100 254.200 Z"
-       stroke="rgb(0,0,0)"
+       d="M 16.1,254.2 H 35 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 H 59 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 H 83 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 H 107 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 H 131 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 H 155 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 H 179 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 H 203 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 H 227 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 H 251 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 H 275 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 H 299 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 H 323 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 h 18.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -16.9 c 0,-0.1 -0.1,0 0,0 h 5.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -12 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -5.9 c -0.1,0 0,0.1 0,0 v -11.8 c 0,-0.1 -0.1,0 0,0 h 5.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -12 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -5.9 c -0.1,0 0,0.1 0,0 v -11.8 c 0,-0.1 -0.1,0 0,0 h 5.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -12 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -5.9 c -0.1,0 0,0.1 0,0 v -11.8 c 0,-0.1 -0.1,0 0,0 h 5.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -12 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -5.9 c -0.1,0 0,0.1 0,0 v -11.8 c 0,-0.1 -0.1,0 0,0 h 5.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -12 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -5.9 c -0.1,0 0,0.1 0,0 v -11.8 c 0,-0.1 -0.1,0 0,0 h 5.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -12 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -5.9 c -0.1,0 0,0.1 0,0 V 93.2 c 0,-0.1 -0.1,0 0,0 h 5.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -12 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -5.9 c -0.1,0 0,0.1 0,0 V 69.2 c 0,-0.1 -0.1,0 0,0 h 5.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -12 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -5.9 c -0.1,0 0,0.1 0,0 V 45.2 c 0,-0.1 -0.1,0 0,0 h 5.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -12 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -5.9 c -0.1,0 0,0.1 0,0 V 16.1 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -18.9 c -0.1,0 0,0.1 0,0 v -5.9 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -12 c -0.055,0 -0.1,0.045 -0.1,0.1 V 16 c 0,0.1 0.1,0 0,0 h -11.8 c -0.1,0 0,0.1 0,0 v -5.9 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -12 c -0.055,0 -0.1,0.045 -0.1,0.1 V 16 c 0,0.1 0.1,0 0,0 h -11.8 c -0.1,0 0,0.1 0,0 v -5.9 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -12 c -0.055,0 -0.1,0.045 -0.1,0.1 V 16 c 0,0.1 0.1,0 0,0 h -11.8 c -0.1,0 0,0.1 0,0 v -5.9 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -12 c -0.055,0 -0.1,0.045 -0.1,0.1 V 16 c 0,0.1 0.1,0 0,0 h -11.8 c -0.1,0 0,0.1 0,0 v -5.9 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -12 c -0.055,0 -0.1,0.045 -0.1,0.1 V 16 c 0,0.1 0.1,0 0,0 h -11.8 c -0.1,0 0,0.1 0,0 v -5.9 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -12 c -0.055,0 -0.1,0.045 -0.1,0.1 V 16 c 0,0.1 0.1,0 0,0 h -11.8 c -0.1,0 0,0.1 0,0 v -5.9 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -12 c -0.055,0 -0.1,0.045 -0.1,0.1 V 16 c 0,0.1 0.1,0 0,0 h -11.8 c -0.1,0 0,0.1 0,0 v -5.9 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -12 c -0.055,0 -0.1,0.045 -0.1,0.1 V 16 c 0,0.1 0.1,0 0,0 h -11.8 c -0.1,0 0,0.1 0,0 v -5.9 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -12 c -0.055,0 -0.1,0.045 -0.1,0.1 V 16 c 0,0.1 0.1,0 0,0 h -11.8 c -0.1,0 0,0.1 0,0 v -5.9 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -12 c -0.055,0 -0.1,0.045 -0.1,0.1 V 16 c 0,0.1 0.1,0 0,0 H 95.2 c -0.1,0 0,0.1 0,0 V 10.1 C 95.2,10.045 95.155,10 95.1,10 h -12 C 83.045,10 83,10.045 83,10.1 V 16 c 0,0.1 0.1,0 0,0 H 71.2 c -0.1,0 0,0.1 0,0 V 10.1 C 71.2,10.045 71.155,10 71.1,10 h -12 C 59.045,10 59,10.045 59,10.1 V 16 c 0,0.1 0.1,0 0,0 H 47.2 c -0.1,0 0,0.1 0,0 V 10.1 C 47.2,10.045 47.155,10 47.1,10 h -12 C 35.045,10 35,10.045 35,10.1 V 16 c 0,0.1 0.1,0 0,0 H 16.1 C 16.045,16 16,16.045 16,16.1 V 33 c 0,0.1 0.1,0 0,0 H 10.1 C 10.045,33 10,33.045 10,33.1 v 12 c 0,0.055 0.045,0.1 0.1,0.1 H 16 c 0.1,0 0,-0.1 0,0 V 57 c 0,0.1 0.1,0 0,0 H 10.1 C 10.045,57 10,57.045 10,57.1 v 12 c 0,0.055 0.045,0.1 0.1,0.1 H 16 c 0.1,0 0,-0.1 0,0 V 81 c 0,0.1 0.1,0 0,0 H 10.1 C 10.045,81 10,81.045 10,81.1 v 12 c 0,0.055 0.045,0.1 0.1,0.1 H 16 c 0.1,0 0,-0.1 0,0 V 105 c 0,0.1 0.1,0 0,0 h -5.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 12 c 0,0.055 0.045,0.1 0.1,0.1 H 16 c 0.1,0 0,-0.1 0,0 V 129 c 0,0.1 0.1,0 0,0 h -5.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 12 c 0,0.055 0.045,0.1 0.1,0.1 H 16 c 0.1,0 0,-0.1 0,0 V 153 c 0,0.1 0.1,0 0,0 h -5.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 12 c 0,0.055 0.045,0.1 0.1,0.1 H 16 c 0.1,0 0,-0.1 0,0 V 177 c 0,0.1 0.1,0 0,0 h -5.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 12 c 0,0.055 0.045,0.1 0.1,0.1 H 16 c 0.1,0 0,-0.1 0,0 V 201 c 0,0.1 0.1,0 0,0 h -5.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 12 c 0,0.055 0.045,0.1 0.1,0.1 H 16 c 0.1,0 0,-0.1 0,0 V 225 c 0,0.1 0.1,0 0,0 h -5.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 12 c 0,0.055 0.045,0.1 0.1,0.1 H 16 c 0.1,0 0,-0.1 0,0 v 16.9 c 0,0.055 0.045,0.1 0.1,0.1 z"
+       stroke="#000000"
        stroke-width="0.20"
        id="path420"
-       style="vector-effect:non-scaling-stroke;-inkscape-stroke:hairline;stroke-width:0.26458333;stroke-dasharray:none" />
+       style="vector-effect:non-scaling-stroke;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline" />
   </g>
   <g
      id="p-3"
      style="vector-effect:non-scaling-stroke;fill:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;-inkscape-stroke:hairline"
-     transform="translate(0,4.7625002)">
+     transform="translate(178.28869,260.34037)">
     <path
        d="m 369.3,466.6 h 17 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 h 11.8 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 h 11.8 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 h 11.8 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 h 11.8 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 h 11.8 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 h 11.8 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 h 11.8 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 h 11.8 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 h 11.8 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 17 c 0.055,0 0.1,-0.045 0.1,-0.1 v -19.9 c 0,-0.1 -0.1,0 0,0 h 5.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -12 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -5.9 c -0.1,0 0,0.1 0,0 v -11.8 c 0,-0.1 -0.1,0 0,0 h 5.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -12 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -5.9 c -0.1,0 0,0.1 0,0 v -11.8 c 0,-0.1 -0.1,0 0,0 h 5.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -12 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -5.9 c -0.1,0 0,0.1 0,0 v -19.9 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -238 c -0.055,0 -0.1,0.045 -0.1,0.1 v 19.9 c 0,0.1 0.1,0 0,0 h -5.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 12 c 0,0.055 0.045,0.1 0.1,0.1 h 5.9 c 0.1,0 0,-0.1 0,0 v 11.8 c 0,0.1 0.1,0 0,0 h -5.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 12 c 0,0.055 0.045,0.1 0.1,0.1 h 5.9 c 0.1,0 0,-0.1 0,0 v 11.8 c 0,0.1 0.1,0 0,0 h -5.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 12 c 0,0.055 0.045,0.1 0.1,0.1 h 5.9 c 0.1,0 0,-0.1 0,0 v 19.9 c 0,0.055 0.045,0.1 0.1,0.1 z"
        stroke="#000000"
@@ -110,7 +113,7 @@ SettingsUrl short: https://boxes.hackerspace-bamberg.de/ABox?x=350.0&amp;y=250.0
   <g
      id="p-4"
      style="vector-effect:non-scaling-stroke;fill:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;-inkscape-stroke:hairline"
-     transform="translate(0,4.7625002)">
+     transform="translate(178.28869,260.34037)">
     <path
        d="m 369.3,363.4 h 17 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 h 11.8 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 h 11.8 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 h 11.8 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 h 11.8 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 h 11.8 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 h 11.8 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 h 11.8 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 h 11.8 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 h 11.8 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 17 c 0.055,0 0.1,-0.045 0.1,-0.1 v -19.9 c 0,-0.1 -0.1,0 0,0 h 5.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -12 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -5.9 c -0.1,0 0,0.1 0,0 v -11.8 c 0,-0.1 -0.1,0 0,0 h 5.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -12 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -5.9 c -0.1,0 0,0.1 0,0 v -11.8 c 0,-0.1 -0.1,0 0,0 h 5.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -12 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -5.9 c -0.1,0 0,0.1 0,0 v -19.9 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -238 c -0.055,0 -0.1,0.045 -0.1,0.1 v 19.9 c 0,0.1 0.1,0 0,0 h -5.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 12 c 0,0.055 0.045,0.1 0.1,0.1 h 5.9 c 0.1,0 0,-0.1 0,0 v 11.8 c 0,0.1 0.1,0 0,0 h -5.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 12 c 0,0.055 0.045,0.1 0.1,0.1 h 5.9 c 0.1,0 0,-0.1 0,0 v 11.8 c 0,0.1 0.1,0 0,0 h -5.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 12 c 0,0.055 0.045,0.1 0.1,0.1 h 5.9 c 0.1,0 0,-0.1 0,0 v 19.9 c 0,0.055 0.045,0.1 0.1,0.1 z"
        stroke="#000000"
@@ -123,90 +126,90 @@ SettingsUrl short: https://boxes.hackerspace-bamberg.de/ABox?x=350.0&amp;y=250.0
      id="rect1886"
      width="80"
      height="40"
-     x="448.29999"
-     y="298.06256"
+     x="626.58868"
+     y="553.64044"
      ry="20" />
   <path
      style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-     d="m -24.836187,235.06376 19.9214604,19.93458 -20.0000004,0.0654 z"
+     d="m 153.4525,490.64163 19.92146,19.93458 -20,0.0654 z"
      id="path1998-3-5" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-     x="-174.9671"
-     y="318.47073"
+     x="3.321589"
+     y="574.04858"
      id="text8709"><tspan
        sodipodi:role="line"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
-       x="-174.9671"
-       y="318.47073"
+       x="3.321589"
+       y="574.04858"
        id="tspan1872">35mm wide</tspan><tspan
        sodipodi:role="line"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
-       x="-174.9671"
-       y="336.10962"
+       x="3.321589"
+       y="591.6875"
        id="tspan4401">snare is mounted</tspan><tspan
        sodipodi:role="line"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
-       x="-174.9671"
-       y="353.74847"
+       x="3.321589"
+       y="609.32635"
        id="tspan4393">at high end of snare</tspan><tspan
        sodipodi:role="line"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
-       x="-174.9671"
-       y="371.38736"
+       x="3.321589"
+       y="626.96521"
        id="tspan4397">bar, nearest tapa</tspan><tspan
        sodipodi:role="line"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
-       x="-174.9671"
-       y="389.02625"
+       x="3.321589"
+       y="644.60413"
        id="tspan4399">face</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-     x="125.61153"
-     y="501.0036"
+     x="303.90021"
+     y="756.58148"
      id="text8709-3"><tspan
        sodipodi:role="line"
        id="tspan8707-6"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
-       x="125.61153"
-       y="501.0036">Snare Bar slots</tspan><tspan
+       x="303.90021"
+       y="756.58148">Snare Bar slots</tspan><tspan
        sodipodi:role="line"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
-       x="125.61153"
-       y="518.64246"
+       x="303.90021"
+       y="774.22034"
        id="tspan1872-0">slots (15.2x6.2mm)</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-     x="633.83441"
-     y="231.85541"
+     x="812.12311"
+     y="487.43329"
      id="text8709-9"><tspan
        sodipodi:role="line"
        id="tspan8707-1"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
-       x="633.83441"
-       y="231.85541">Snare Bar: 35x238x6mm</tspan><tspan
+       x="812.12311"
+       y="487.43329">Snare Bar: 35x238x6mm</tspan><tspan
        sodipodi:role="line"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
-       x="633.83441"
-       y="249.49428"
+       x="812.12311"
+       y="505.07214"
        id="tspan8457">+ 15x6mm tabs each end</tspan></text>
   <path
      id="rect8865"
      style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
-     d="m 376.11068,213.17131 v 9.99991 h -5.72679 v 15.00012 h 5.72679 v 9.9999 h 237.99994 v -9.9999 h 5.47667 v -15.00012 h -5.47667 v -9.99991 z" />
+     d="m 554.39937,468.74918 v 9.99991 h -5.72679 v 15.00012 h 5.72679 v 9.9999 h 237.99994 v -9.9999 h 5.47667 v -15.00012 h -5.47667 v -9.99991 z" />
   <g
      id="g10948"
-     transform="translate(0.08247928,166.74594)"
-     style="vector-effect:non-scaling-stroke;-inkscape-stroke:hairline;stroke-width:0.26458333;stroke-dasharray:none">
+     transform="translate(178.37117,422.32381)"
+     style="vector-effect:non-scaling-stroke;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline">
     <g
        id="g10600"
        transform="translate(-149.21022,-71.244066)"
-       style="vector-effect:non-scaling-stroke;-inkscape-stroke:hairline;stroke-width:0.26458333;stroke-dasharray:none">
+       style="vector-effect:non-scaling-stroke;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline">
       <rect
-         style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.26458333;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
          id="rect1158"
          width="350"
          height="250"
@@ -214,74 +217,74 @@ SettingsUrl short: https://boxes.hackerspace-bamberg.de/ABox?x=350.0&amp;y=250.0
          y="-351.07974"
          ry="2.4702964" />
       <circle
-         style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.26458333;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
+         style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
          id="path10371"
          cx="173.29018"
          cy="-339.05057"
          r="1.5" />
       <circle
-         style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.26458333;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
+         style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
          id="path10489"
          cx="173.85359"
          cy="-113.86337"
          r="1.5" />
       <circle
-         style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.26458333;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
+         style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
          id="path10489-5"
          cx="498.75473"
          cy="-113.28798"
          r="1.5" />
       <circle
-         style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.26458333;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
+         style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
          id="path10489-9"
          cx="498.45114"
          cy="-338.05478"
          r="1.5" />
     </g>
     <circle
-       style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.26458333;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
+       style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
        id="path10656"
        cx="78.941467"
        cy="-419.01987"
        r="1.5" />
     <circle
-       style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.26458333;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
+       style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
        id="path10656-2"
        cx="187.0508"
        cy="-419.01987"
        r="1.5" />
     <circle
-       style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.26458333;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
+       style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
        id="path10656-2-2"
        cx="295.16013"
        cy="-419.01987"
        r="1.5" />
     <circle
-       style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.26458333;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
+       style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
        id="path10656-3"
        cx="78.941467"
        cy="-175.45517"
        r="1.5" />
     <circle
-       style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.26458333;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
+       style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
        id="path10656-2-6"
        cx="187.0508"
        cy="-175.45517"
        r="1.5" />
     <circle
-       style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.26458333;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
+       style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
        id="path10656-2-2-1"
        cx="295.16013"
        cy="-175.45517"
        r="1.5" />
     <circle
-       style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.26458333;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
+       style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
        id="path10794"
        cx="15.49492"
        cy="-296.94406"
        r="1.5" />
     <circle
-       style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.26458333;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
+       style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
        id="path10794-2"
        cx="358.58978"
        cy="-296.94406"
@@ -290,103 +293,103 @@ SettingsUrl short: https://boxes.hackerspace-bamberg.de/ABox?x=350.0&amp;y=250.0
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;vector-effect:non-scaling-stroke;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
-     x="374.44946"
-     y="-152.08208"
+     x="552.73816"
+     y="103.49579"
      id="text12351"><tspan
        sodipodi:role="line"
        id="tspan12349"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
-       x="374.44946"
-       y="-152.08208">Tapa 3mm plywood (top)</tspan></text>
+       x="552.73816"
+       y="103.49579">Tapa 3mm plywood (top)</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;vector-effect:non-scaling-stroke;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
-     x="-55.075123"
-     y="133.42474"
+     x="123.21357"
+     y="389.00262"
      id="text12351-6"><tspan
        sodipodi:role="line"
        id="tspan12349-2"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
-       x="-55.075123"
-       y="133.42474">bottom</tspan></text>
+       x="123.21357"
+       y="389.00262">bottom</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:148.746;display:inline;vector-effect:non-scaling-stroke;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
      x="403.42624"
      y="28.741016"
      id="text12351-7"
-     transform="translate(-581.91291,224.09696)"><tspan
+     transform="translate(-403.62422,479.67483)"><tspan
        x="403.42624"
        y="28.741016"
-       id="tspan8783">Four triangular (20 x 20 mm
+       id="tspan12692">Four triangular (20 x 20 mm
 </tspan><tspan
        x="403.42624"
        y="42.852144"
-       id="tspan8785">sides) pillars from tapa
+       id="tspan12694">sides) pillars from tapa
 </tspan><tspan
        x="403.42624"
        y="56.96327"
-       id="tspan8787">to bottom. 94mm high dowels</tspan></text>
+       id="tspan12696">to bottom. 94mm high dowels</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:148.746;display:inline;vector-effect:non-scaling-stroke;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
      x="403.42624"
      y="28.741016"
      id="text12351-7-3"
-     transform="translate(-4.3382172,11.554243)"><tspan
+     transform="translate(173.95047,267.13211)"><tspan
        x="403.42624"
        y="28.741016"
-       id="tspan8789">Bottom and sides, snarebar </tspan><tspan
+       id="tspan12698">Bottom and sides, snarebar </tspan><tspan
        x="403.42624"
        y="42.852144"
-       id="tspan8791">6mm plywood</tspan></text>
+       id="tspan12700">6mm plywood</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;vector-effect:non-scaling-stroke;fill:#0000f1;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
-     x="403.47931"
-     y="98.538757"
+     x="581.76801"
+     y="354.11664"
      id="text12351-1"><tspan
        sodipodi:role="line"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000f1;fill-opacity:1;stroke-width:0.264583"
-       x="403.47931"
-       y="98.538757"
+       x="581.76801"
+       y="354.11664"
        id="tspan12733">Remove blue guidelines</tspan><tspan
        sodipodi:role="line"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000f1;fill-opacity:1;stroke-width:0.264583"
-       x="403.47931"
-       y="112.64988"
+       x="581.76801"
+       y="368.22775"
        id="tspan12749">before etching/cutting as</tspan><tspan
        sodipodi:role="line"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000f1;fill-opacity:1;stroke-width:0.264583"
-       x="403.47931"
-       y="126.76101"
+       x="581.76801"
+       y="382.33887"
        id="tspan946">needed</tspan></text>
   <text
      xml:space="preserve"
-     transform="scale(0.26458333)"
+     transform="matrix(0.26458333,0,0,0.26458333,178.28869,255.57787)"
      id="text998"
      style="font-size:26.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';white-space:pre;shape-inside:url(#rect1000);display:inline;vector-effect:non-scaling-stroke;fill:#0000ff;fill-opacity:1;stroke:#000000;-inkscape-stroke:hairline;stop-color:#000000" />
   <text
      xml:space="preserve"
      style="font-size:7.05556px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';vector-effect:non-scaling-stroke;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:0.264583;-inkscape-stroke:hairline;stop-color:#000000"
-     x="439.79559"
-     y="26.53521"
+     x="618.08429"
+     y="282.11307"
      id="text1006"><tspan
        sodipodi:role="line"
        id="tspan1004"
        style="stroke-width:0.264583"
-       x="439.79559"
-       y="26.53521" /></text>
+       x="618.08429"
+       y="282.11307" /></text>
   <rect
      style="vector-effect:non-scaling-stroke;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:0.374602;-inkscape-stroke:hairline;stop-color:#000000"
      id="rect1137"
      width="20"
      height="94"
-     x="-26.035885"
-     y="266.297" />
+     x="152.25281"
+     y="521.87488" />
   <g
      id="g1274"
-     transform="translate(510.03318,367.31398)">
+     transform="translate(688.32187,622.89185)">
     <path
        style="fill:none;stroke:#0000ff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        d="m -473.1738,-350.92718 -19.93458,19.92146 -0.0654,-20 z"
@@ -405,7 +408,7 @@ SettingsUrl short: https://boxes.hackerspace-bamberg.de/ABox?x=350.0&amp;y=250.0
        id="path1998-7" />
   </g>
   <path
-     d="m 13.318858,470.80733 h 18.999999 c 0.055,0 0.100001,-0.045 0.100001,-0.1 v -5.9 c 0,-0.1 -0.100001,0 0,0 h 11.799999 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.100001,-0.045 0.100001,-0.1 v -5.9 c 0,-0.1 -0.100001,0 0,0 h 11.799999 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 h 11.8 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12.000003 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 h 11.8 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 h 11.8 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 h 11.8 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 h 11.8 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 h 11.8 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 h 11.8 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 h 11.8 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 h 11.8 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 h 11.8 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 h 11.8 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 19 6 c 0.055,0 0.1,-0.045 0.1,-0.1 v -20 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -5.9 c -0.1,0 0,0.1 0,0 v -11.8 c 0,-0.1 -0.1,0 0,0 h 5.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -12 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -5.9 c -0.1,0 0,0.1 0,0 v -11.8 c 0,-0.1 -0.1,0 0,0 h 5.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -12 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -5.9 c -0.1,0 0,0.1 0,0 v -11.8 c 0,-0.1 -0.1,0 0,0 h 5.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -20 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -6 H 13.318858 7.3188575 c -0.055,0 -0.1,0.045 -0.1,0.1 v 20 c 0,0.055 0.045,0.1 0.1,0.1 h 5.9000005 c 0.1,0 0,-0.1 0,0 v 11.8 c 0,0.1 0.1,0 0,0 H 7.3188575 c -0.055,0 -0.1,0.045 -0.1,0.1 v 12 c 0,0.055 0.045,0.1 0.1,0.1 h 5.9000005 c 0.1,0 0,-0.1 0,0 v 11.8 c 0,0.1 0.1,0 0,0 H 7.3188575 c -0.055,0 -0.1,0.045 -0.1,0.1 v 12 c 0,0.055 0.045,0.1 0.1,0.1 h 5.9000005 c 0.1,0 0,-0.1 0,0 v 11.8 c 0,0.1 0.1,0 0,0 H 7.3188575 c -0.055,0 -0.1,0.045 -0.1,0.1 v 20 c 0,0.055 0.045,0.1 0.1,0.1 z"
+     d="m 191.60755,726.3852 h 19 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 h 11.8 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 h 11.8 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 h 11.8 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 h 11.8 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 h 11.8 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 h 11.8 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 h 11.8 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 h 11.8 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 h 11.8 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 h 11.8 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 h 11.8 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 h 11.8 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 h 11.8 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 19 6 c 0.055,0 0.1,-0.045 0.1,-0.1 v -20 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -5.9 c -0.1,0 0,0.1 0,0 v -11.8 c 0,-0.1 -0.1,0 0,0 h 5.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -12 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -5.9 c -0.1,0 0,0.1 0,0 v -11.8 c 0,-0.1 -0.1,0 0,0 h 5.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -12 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -5.9 c -0.1,0 0,0.1 0,0 v -11.8 c 0,-0.1 -0.1,0 0,0 h 5.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -20 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -6 -338 -6 c -0.055,0 -0.1,0.045 -0.1,0.1 v 20 c 0,0.055 0.045,0.1 0.1,0.1 h 5.9 c 0.1,0 0,-0.1 0,0 v 11.8 c 0,0.1 0.1,0 0,0 h -5.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 12 c 0,0.055 0.045,0.1 0.1,0.1 h 5.9 c 0.1,0 0,-0.1 0,0 v 11.8 c 0,0.1 0.1,0 0,0 h -5.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 12 c 0,0.055 0.045,0.1 0.1,0.1 h 5.9 c 0.1,0 0,-0.1 0,0 v 11.8 c 0,0.1 0.1,0 0,0 h -5.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 20 c 0,0.055 0.045,0.1 0.1,0.1 z"
      stroke="#000000"
      stroke-width="0.20"
      id="path414"
@@ -413,7 +416,7 @@ SettingsUrl short: https://boxes.hackerspace-bamberg.de/ABox?x=350.0&amp;y=250.0
   <g
      id="p-1"
      style="vector-effect:non-scaling-stroke;fill:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;-inkscape-stroke:hairline"
-     transform="translate(-3.03769,2.83789)">
+     transform="translate(175.251,258.41576)">
     <path
        d="m 16.1,363.4 h 19 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 H 47 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 H 71 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 H 95 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 H 119 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 H 143 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 H 167 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 H 191 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 H 215 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 H 239 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 H 263 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 H 287 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 H 311 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12 c 0.055,0 0.1,-0.045 0.1,-0.1 v -5.9 c 0,-0.1 -0.1,0 0,0 H 335 c 0.1,0 0,-0.1 0,0 v 5.9 c 0,0.055 0.045,0.1 0.1,0.1 h 19 6 c 0.055,0 0.1,-0.045 0.1,-0.1 v -20 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -5.9 c -0.1,0 0,0.1 0,0 v -11.8 c 0,-0.1 -0.1,0 0,0 h 5.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -12 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -5.9 c -0.1,0 0,0.1 0,0 v -11.8 c 0,-0.1 -0.1,0 0,0 h 5.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -12 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -5.9 c -0.1,0 0,0.1 0,0 v -11.8 c 0,-0.1 -0.1,0 0,0 h 5.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -20 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -6 -338 -6 c -0.055,0 -0.1,0.045 -0.1,0.1 v 20 c 0,0.055 0.045,0.1 0.1,0.1 H 16 c 0.1,0 0,-0.1 0,0 v 11.8 c 0,0.1 0.1,0 0,0 h -5.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 12 c 0,0.055 0.045,0.1 0.1,0.1 H 16 c 0.1,0 0,-0.1 0,0 v 11.8 c 0,0.1 0.1,0 0,0 h -5.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 12 c 0,0.055 0.045,0.1 0.1,0.1 H 16 c 0.1,0 0,-0.1 0,0 v 11.8 c 0,0.1 0.1,0 0,0 h -5.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 20 c 0,0.055 0.045,0.1 0.1,0.1 z"
        stroke="#000000"
@@ -426,13 +429,13 @@ SettingsUrl short: https://boxes.hackerspace-bamberg.de/ABox?x=350.0&amp;y=250.0
      id="rect6594"
      width="15.2"
      height="6.1999998"
-     x="63.055798"
-     y="280.8046" />
+     x="241.34448"
+     y="536.38245" />
   <rect
      style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;stroke:#ff0007;stroke-width:0.0940261;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;stop-color:#000000"
      id="rect6594-8"
      width="15.2"
      height="6.1999998"
-     x="286.36307"
-     y="400.71164" />
+     x="464.65176"
+     y="656.28949" />
 </svg>
